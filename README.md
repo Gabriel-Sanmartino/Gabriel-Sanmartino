@@ -15,22 +15,23 @@ Mi principal objetivo como analista de datos es desarrollar soluciones que realm
 
 ### Soluciones de bases de datos en la nube:
 
-- ![Azure SQL Database](https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg) Microsoft Azure SQL Database
-- ![AWS RDS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg) AWS, Amazon Relational Database Service (RDS)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure SQL Database" width="40" height="40"/> Microsoft Azure SQL Database
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS RDS" width="40" height="40"/> AWS, Amazon Relational Database Service (RDS)
 
 ### Soluciones de bases de datos on premise:
 
-- ![SQL Server](https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.svg) SQL Server
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.svg" alt="SQL Server" width="40" height="40"/> SQL Server
 
 ### Herramientas de visualización:
 
-- ![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg) Power BI
-- ![Tableau](https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png) Tableau
-- ![Looker Studio](https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Data_Studio_Logo.png) Looker Studio
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> Power BI
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/> Tableau
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Data_Studio_Logo.png" alt="Looker Studio" width="40" height="40"/> Looker Studio
 
 ### Ciencia de datos, machine learning, EDA, ETL:
 
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/> Python
+
 
 
 
