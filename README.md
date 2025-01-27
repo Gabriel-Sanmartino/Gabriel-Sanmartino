@@ -1,16 +1,6 @@
-# 👋 Hola! 
+<h1 align="center">👋¡Hola! Soy Gabriel😁</h1>
+# Cientifico y analista de datos con background en finanzas y estadistica
+Actualmente soy Teaching Asisstan en Henry, colaboro con un grupo de estudiantes a fin de facilitarles su paso por el bootcamp de Henry a traves de la mejora de su experiencia a la hora de afrontar los proyectos academicos que se proponen.
+A demas me capacito de manera constante, a diario practico en mis herramientas favoritas con el fin de reforzar los conocimientos ya adquiridos en ellas como así también desarrollar nuevas habilidades, explorar nuevas librerías o funcionalidades según sea el caso.
+Mi principal objetivo como analista de datos es desarrollar soluciones que realmente permitan mejorar los negocios, ya sea a traves de la reduccion de costos o la mejora de procesos que resulten en una mayor generacion de ingresos.
 
-Soy Gabriel, Analista de datos <br>
-Actualmente me desempeño en el rol de Teaching Assistant en Henry <br>
-Mis herramientas preferidas son Power BI, Python y SQL
-
-
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">Data Analyst - Background en finanzas, estadística y matemática</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
